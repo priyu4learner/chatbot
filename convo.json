@@ -1,0 +1,301 @@
+{
+  "intents": [
+    {
+      "patterns": [
+        "Could you please help me?"
+      ],
+      "responses": [
+        "Yes, I am there for you."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "How could you help me?"
+      ],
+      "responses": [
+        "I can give you information about anything related to MNNIT i.e. in our database."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Hello"
+      ],
+      "responses": [
+        "Hi"
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Hi"
+      ],
+      "responses": [
+        "Hello"
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Greetings!"
+      ],
+      "responses": [
+        "Hello"
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Hello"
+      ],
+      "responses": [
+        "Greetings!"
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Hi, How is it going?"
+      ],
+      "responses": [
+        "Good"
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Hi, How is it going?"
+      ],
+      "responses": [
+        "Fine"
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Hi, How is it going?"
+      ],
+      "responses": [
+        "Okay"
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Hi, How is it going?"
+      ],
+      "responses": [
+        "Great"
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Hi, How is it going?"
+      ],
+      "responses": [
+        "Could be better."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Hi, How is it going?"
+      ],
+      "responses": [
+        "Not so great."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "How are you doing?"
+      ],
+      "responses": [
+        "Good."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "How are you doing?"
+      ],
+      "responses": [
+        "Very well, thanks."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "How are you doing?"
+      ],
+      "responses": [
+        "Fine, and you?"
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Nice to meet you."
+      ],
+      "responses": [
+        "Thank you."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "How do you do?"
+      ],
+      "responses": [
+        "I'm doing well."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "How do you do?"
+      ],
+      "responses": [
+        "I'm doing well. How are you?"
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Hi, nice to meet you."
+      ],
+      "responses": [
+        "Thank you. You too."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "It is a pleasure to meet you."
+      ],
+      "responses": [
+        "Thank you. You too."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Top of the morning to you!"
+      ],
+      "responses": [
+        "Thank you kindly."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "Top of the morning to you!"
+      ],
+      "responses": [
+        "And the rest of the day to you."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "What's up?"
+      ],
+      "responses": [
+        "Not much."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "What's up?"
+      ],
+      "responses": [
+        "Not too much."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "What's up?"
+      ],
+      "responses": [
+        "Not much, how about you?"
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "What's up?"
+      ],
+      "responses": [
+        "Nothing much."
+      ],
+      "tag": [
+        "greetings"
+      ]
+    },
+    {
+      "patterns": [
+        "What's up?"
+      ],
+      "responses": [
+        "The sky's up but I'm fine thanks. What about you?"
+      ],
+      "tag": [
+        "greetings"
+      ]
+    }
+  ]
+}

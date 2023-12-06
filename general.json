@@ -1,0 +1,1544 @@
+{
+  "intents": [
+    {
+      "patterns": [
+        "where is mnnit allahabad ?"
+      ],
+      "responses": [
+        "At Barrister Mullah Colony, MNNIT Allahabad Campus, Teliarganj, Prayagraj, Uttar Pradesh 211004."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Landmarks near mnnit."
+      ],
+      "responses": [
+        "Landmarks are Teliarganj Chauraha, Indian Press Chauraha, Rudyard Kipling House, etc."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What is ranking of mnnit allahabad ?"
+      ],
+      "responses": [
+        "The ranking changes every year still it is currently ranked 19th best Engineering college by NIRF."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What programs mnnit offers ?"
+      ],
+      "responses": [
+        "It offers B.E./B.Tech, M.E./M.Tech, MCA, M.S.C, MBA/PGDM, Ph.D."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the types of connectivity in mnnit ?"
+      ],
+      "responses": [
+        "Wired and wireless internet connectivity is available here."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How many hostels are there in mnnit ?"
+      ],
+      "responses": [
+        "There are currently eight boys hostels and four girls hostels."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What is capacity of girls hostel at mnnit ?"
+      ],
+      "responses": [
+        "The room capacity is around 250."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What is the campus size of mnnit ?"
+      ],
+      "responses": [
+        "The campus size is 222 acres."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Is there room facilty for parents/guardians in mnnit ?"
+      ],
+      "responses": [
+        "Yes, mnnit offers guest house room for accomodation of parents."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the types of extra-curricular activities in mnnit ?"
+      ],
+      "responses": [
+        "There are lots of facilities like outdoor and indoor games, cultural, technical, and managerial events."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the sports events at mnnit ?"
+      ],
+      "responses": [
+        "Annual athletics meet."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the technical events at mnnit ?"
+      ],
+      "responses": [
+        "Avishkar and Codesangam."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What is the cultural fest of mnnit ?"
+      ],
+      "responses": [
+        "Culrav is the annual cultural fest of mnnit."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How to reach mnnit ?"
+      ],
+      "responses": [
+        "MNNIT is located about 8 Km from Praygraj Junction and also it has its own domestic airport named Bamrauli airport which is 15 km away from it."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the safety parameters for students in mnnit ?"
+      ],
+      "responses": [
+        "A lot of guards are available and cameras are installed through out the campus to insure safety of students."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Is there any campus intime for students ?"
+      ],
+      "responses": [
+        "There is an intime of 8:30 pm for first year students, No intime for boys other than first year, and an intime of 10 pm for non-first year girls."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Do hostels have their own mess ?"
+      ],
+      "responses": [
+        "Yes, Hostels at mnnit have their own mess facilities."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Is the mess charge included in the fees ?"
+      ],
+      "responses": [
+        "No, mess charges are applicable to hostellers after registration."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What is the capacity of rooms in girls hostel ?"
+      ],
+      "responses": [
+        "There are double occupancy rooms in girls hostel."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What is the capacity of rooms in boys hostel ?"
+      ],
+      "responses": [
+        "First year boys are given triple occupancy rooms, double occupancy rooms for second and third year boys, and single occupancy for final year boys."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the facilities given in hostel rooms ?"
+      ],
+      "responses": [
+        "Rooms are airy and are equiped with beds, study table, and tubelight."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there medical facilities available in mnnit ?"
+      ],
+      "responses": [
+        "Yes, there is a dispensary and and a medical shop inside the campus."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Where different outdoor sports are played in mnnit ?"
+      ],
+      "responses": [
+        "Outdoor sports are played in the badminton court, basketball court, football, and volleyball ground."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Is there good internet facilitity in mnnit hostels ?"
+      ],
+      "responses": [
+        "Yes, each hostel are well equipped with wired and wireless internet facilities."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the different student clubs at mnnit ?"
+      ],
+      "responses": [
+        "There are various students clubs viz; ECell, Rotaract, Cultural clubs, Sports club, etc."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Tell me about cleaning facilities at hostels."
+      ],
+      "responses": [
+        "Each hostel have their own cleaning staffs."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the canteen facilities at mnnit ?"
+      ],
+      "responses": [
+        "There are some canteens in the campus and also inside hostels."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Do hostel mess provide non-veg food ?"
+      ],
+      "responses": [
+        "No, there is no facility of non-veg food in mess."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are electricity and water supply good in mnnit ?"
+      ],
+      "responses": [
+        "Yes, the eclectricity and water supply is pretty good here."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Do hostels have parking facility ?"
+      ],
+      "responses": [
+        "Yes, but the parking is only for cycles, as no motor vehicles is allowed for students."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the facilities at in classrooms ?"
+      ],
+      "responses": [
+        "Classrooms are airy and are well furnished with benches, fans, A.C, greenboard, projector."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the laboratory facilities ?"
+      ],
+      "responses": [
+        "Laboratories are air conditioned and well equiped with relevant tools and machines along with projector and board."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Where cultural events are held in mnnit campus ?"
+      ],
+      "responses": [
+        "Cultural events including dance, music, dramatics are held in the Multi Purpose Hall(M.P Hall) and other activities in the campus itself."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there fruit stalls in mnnit campus ?"
+      ],
+      "responses": [
+        "Yes, there are multiples fruit stalls in the campus."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Is there GYM for students in the campus ?"
+      ],
+      "responses": [
+        "Yes, there are seperate GYM for girls and boys students."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are boys and girls allowed to enter each other hostels ?"
+      ],
+      "responses": [
+        "No, there is a restriction regarding this, but they can visit only under permission."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Is there any dress code in the campus ?"
+      ],
+      "responses": [
+        "No, there is no certain dresscode."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are temples situated inside the campus ?"
+      ],
+      "responses": [
+        "Yes, there are some temples situated here."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are festivals celebrated in the campus ?"
+      ],
+      "responses": [
+        "Yes, students can celebrate festivals in the campus maintaining the code of conduct."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there varieties in mess food ?"
+      ],
+      "responses": [
+        "Yes, there is a vast variety in the mess food seasonally."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What language students speak in the campus ?"
+      ],
+      "responses": [
+        "Students can speak Hindi and English both, the medium of study is English majorly."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the usecases of student's college mail id."
+      ],
+      "responses": [
+        "The students can take benefits of various tech and edu subscriptions, etc."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Do students organize events ?"
+      ],
+      "responses": [
+        "Yes, the student coordinator of each club akes care of the event organization."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Do the professors also reside in the campus ?"
+      ],
+      "responses": [
+        "Yes, the professors also reside inside their quarters in the campuse."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there donation camps in the campus ?"
+      ],
+      "responses": [
+        "Yes, the students run the donation camps for under-priviledged people in the city."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Do female staffs reside inside girls hostel ?"
+      ],
+      "responses": [
+        "Yes, female staffs reside inside girls hostel to take care of girls in need."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Do influencers and civil servants visit campus ?"
+      ],
+      "responses": [
+        "Yes, various influencers and civil servants and alumnis from various backgrounds visit campus."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Is there any reunion ceremony for alumnis ?"
+      ],
+      "responses": [
+        "Yes, an event named Global Alumni Convention is dedicated for the reunion of alumnis."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Do institute provides scholarship ?"
+      ],
+      "responses": [
+        "Yes, the institute provides merit-based and financial background-based scholarships to students."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there enterpreneurial events held in the campus ?"
+      ],
+      "responses": [
+        "Yes, various events like E-Summit, TED-X, Renaissance, etc are held here."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are plantation activities held in the campus ?"
+      ],
+      "responses": [
+        "Yes, plantation drives are organized inside as well outside the campus by the studnet volunteers."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there parks in the campus ?"
+      ],
+      "responses": [
+        "Yes, there are parks with various swings in the campus."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are family members allowed to stay in the hostel ?"
+      ],
+      "responses": [
+        "No, the stay of family members is confined to guest house only."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Is there any common room in hostels ?"
+      ],
+      "responses": [
+        "Yes."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are visitors allowed in fests ?"
+      ],
+      "responses": [
+        "Visitors are allowed to visit in permissible events of the fests only."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Is it allowed to roam in the entire campus ?"
+      ],
+      "responses": [
+        "Roaming inside the campus is allowed, but there there is an intime factor for the students."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Can students bring motorised vehicle to campus ?"
+      ],
+      "responses": [
+        "No, students are not allowed to bring motorised vehicles."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Can seniors and juniors visit each others hostel ?"
+      ],
+      "responses": [
+        "Only first year students are not allowed interact with students of any year."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the security factors in girls hostel ?"
+      ],
+      "responses": [
+        "Guards, caretaker, and female staffs are there to assist the girls in need."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What is the overall status of hostels ?"
+      ],
+      "responses": [
+        "All hostels have friendly and co-operative environment."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Can you provide information about the location of MNNIT Allahabad? Where exactly is the campus situated?"
+      ],
+      "responses": [
+        "MNNIT Allahabad is located in Prayagraj, Uttar Pradesh, India. The campus is situated at Teliarganj, approximately 10 kilometers from the city center, offering a vibrant academic environment."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the major landmarks near MNNIT, Allahabad?"
+      ],
+      "responses": [
+        "Major landmarks near MNNIT, Allahabad, include Allahabad Junction Railway Station, Alfred Park, Anand Bhawan, Allahabad Fort, and Triveni Sangam, where the Ganges, Yamuna, and Sarasvati rivers converge."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Can you list some notable places or attractions in the vicinity of the institute?"
+      ],
+      "responses": [
+        "Certainly! Some notable places near MNNIT, Allahabad, include Allahabad Fort, Anand Bhawan, Khusro Bagh, Company Bagh, and the Triveni Sangam, where the Ganges, Yamuna, and Sarasvati rivers meet."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there any significant transportation hubs or bus stops close to MNNIT?"
+      ],
+      "responses": [
+        "Yes, MNNIT, Allahabad, is conveniently located with nearby transportation hubs and bus stops, facilitating easy access for students and visitors."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How far is the nearest railway station or airport from the institute?"
+      ],
+      "responses": [
+        "The distance between MNNIT, Allahabad, and the nearest railway station or airport varies. Please check current maps or contact local transportation services for precise and up-to-date information."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there any parks or recreational areas near MNNIT where students can relax?"
+      ],
+      "responses": [
+        "Yes, there are parks and recreational areas near MNNIT, Allahabad, providing students with relaxing spaces. These areas offer greenery and a peaceful environment for leisure and rejuvenation."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are some popular hangout spots for students in the surrounding area?"
+      ],
+      "responses": [
+        "Students at MNNIT, Allahabad, often frequent popular hangout spots such as the Civil Lines market, El Chico Restaurant, and Company Bagh for leisure and socializing in the surrounding area."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there shopping malls or markets near MNNIT for students to purchase essentials?"
+      ],
+      "responses": [
+        "Yes, MNNIT, Allahabad, is in close proximity to shopping malls and markets, offering students convenient access to purchase essentials and meet their daily needs."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Can you recommend any local markets or stores for shopping?"
+      ],
+      "responses": [
+        "The nearby Civil Lines market and Katra market are popular shopping destinations near MNNIT, Allahabad. They offer a variety of shops and stores for clothing, accessories, and more."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there any cultural or historical sites of interest near MNNIT?"
+      ],
+      "responses": [
+        "Yes, MNNIT, Allahabad, is near cultural and historical sites like the Allahabad Fort, Anand Bhavan, and Triveni Sangam, adding richness to the local heritage and experience."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Can you provide information about any museums or historical landmarks in the vicinity?"
+      ],
+      "responses": [
+        "In the vicinity of MNNIT, Allahabad, notable historical landmarks include Allahabad Fort, Anand Bhawan, and the Triveni Sangam. These sites offer rich cultural and historical experiences for exploration."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are some popular eateries or restaurants near MNNIT?"
+      ],
+      "responses": [
+        "Popular eateries near MNNIT include \"Tunday Kababi\" known for kebabs, \"El Chico\" for Mexican cuisine, and \"Indian Coffee House\" for a casual setting and diverse menu."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there any specific cuisines or food joints that students often visit?"
+      ],
+      "responses": [
+        "Yes, students at MNNIT, Allahabad, frequently visit local food joints offering a variety of cuisines, including Indian street food stalls, regional eateries, and popular cafes within the vicinity."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How close are the nearest hospitals or medical facilities to MNNIT?"
+      ],
+      "responses": [
+        "The distance to the nearest hospitals or medical facilities from MNNIT is typically within a few kilometers, ensuring prompt access to healthcare services for students and staff."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there any pharmacies or clinics in the vicinity?"
+      ],
+      "responses": [
+        "Yes, there are pharmacies and clinics in the vicinity of MNNIT, Allahabad, providing convenient access to medical facilities for students and the local community."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there other educational institutions or universities near MNNIT?"
+      ],
+      "responses": [
+        "Yes, there are several educational institutions near MNNIT, Allahabad, fostering a rich academic environment. These include other universities, colleges, and research centers in the vicinity."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Can you provide information about any academic collaborations or partnerships with nearby institutions?"
+      ],
+      "responses": [
+        "As of my last knowledge update in January 2023, I don't have specific details about academic collaborations or partnerships with nearby institutions at MNNIT, Allahabad. Please check the institute's official sources for the latest information."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there sports complexes or recreational facilities close to MNNIT?"
+      ],
+      "responses": [
+        "Yes, MNNIT, Allahabad, is surrounded by sports complexes and recreational facilities, providing students with opportunities for various sports and leisure activities within close proximity to the institute."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Can you recommend places for outdoor activities or sports?"
+      ],
+      "responses": [
+        "Certainly! \"Near MNNIT, Allahabad, consider engaging in outdoor activities at Chandra Shekhar Azad Park or utilizing sports facilities within the campus for recreational pursuits.\""
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the common modes of local transportation available near MNNIT?"
+      ],
+      "responses": [
+        "Common modes of local transportation near MNNIT, Allahabad, include buses, auto-rickshaws, and cycle rickshaws. These provide convenient options for commuting within the campus and to nearby areas."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there specific bus routes or auto-rickshaw stands in the vicinity?"
+      ],
+      "responses": [
+        "Yes, MNNIT, Allahabad, is well-connected with specific bus routes and auto-rickshaw stands in the vicinity, providing convenient transportation options for students and visitors."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What is the current overall national ranking of MNNIT Allahabad among engineering institutes?"
+      ],
+      "responses": [
+        "As of my last update in January 2023, I don't have the current overall national ranking for MNNIT Allahabad. Please check the latest rankings from reputable sources for accurate information."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How does MNNIT Allahabad rank in specific engineering disciplines, such as Computer Science or Mechanical Engineering?"
+      ],
+      "responses": [
+        "As of my last update in January 2023, specific rankings for engineering disciplines at MNNIT Allahabad may vary. Please check the latest reports or the institute's official website for accurate information."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Can you provide a comparison between MNNIT Allahabad and other similar institutes in terms of ranking?"
+      ],
+      "responses": [
+        "MNNIT Allahabad's ranking varies among institutes and disciplines. A comparative analysis reveals its standing in academia, research, and overall performance against similar engineering institutions."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How does MNNIT Allahabad fare in terms of research and innovation rankings among technical institutes?"
+      ],
+      "responses": [
+        "MNNIT Allahabad's research and innovation rankings among technical institutes are notable, reflecting its commitment to cutting-edge advancements and contributions in diverse fields within the academic and research landscape."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Is there any ranking information available for MNNIT Allahabad based on its placement record?"
+      ],
+      "responses": [
+        "I don't have real-time data, but you can check reliable sources like educational websites or MNNIT's official site for the latest placement-based rankings."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Does MNNIT Allahabad have a ranking at the national or international level, and how does it compare on both scales?"
+      ],
+      "responses": [
+        "As of my last knowledge update in January 2023, MNNIT Allahabad has a national ranking among engineering institutes in India. International rankings may vary, and specific comparisons depend on the source."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How has the ranking of MNNIT Allahabad changed over the past few years?"
+      ],
+      "responses": [
+        "I don't have the specific recent data on MNNIT Allahabad's ranking changes. Please refer to the latest sources or the university's official website for the most accurate information."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What methodology or criteria are used to determine the ranking of MNNIT Allahabad?"
+      ],
+      "responses": [
+        "The specific methodology or criteria used to determine MNNIT Allahabad's ranking may vary by ranking organizations but often include factors like academic reputation, research output, and industry engagement."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Is there a ranking that reflects the perception of MNNIT Allahabad in academic and professional circles?"
+      ],
+      "responses": [
+        "As of my last knowledge update in January 2023, MNNIT Allahabad is well-regarded in academic and professional circles, with rankings reflecting its strong reputation for engineering and technology education."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How does MNNIT Allahabad rank in parameters such as faculty-to-student ratio, infrastructure, or alumni network?"
+      ],
+      "responses": [
+        "I don't have real-time rankings, but historically, MNNIT Allahabad is renowned for its favorable faculty-to-student ratio, robust infrastructure, and a well-established alumni network, contributing to its academic excellence."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What undergraduate programs does MNNIT offer?"
+      ],
+      "responses": [
+        "MNNIT offers a range of undergraduate programs in engineering disciplines, including Civil, Mechanical, Electrical, Computer Science, and more, fostering a comprehensive education in various technical fields."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Can you provide information on the postgraduate programs available at MNNIT?"
+      ],
+      "responses": [
+        "MNNIT offers diverse postgraduate programs including M.Tech, MBA, M.Sc, and Ph.D. in engineering, management, sciences, and humanities, providing students with specialized knowledge and research opportunities."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there any integrated dual-degree programs offered by the institute?"
+      ],
+      "responses": [
+        "Yes, MNNIT, Allahabad offers integrated dual-degree programs, providing students an opportunity to pursue a combined undergraduate and postgraduate degree in certain disciplines."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Which engineering branches are available for undergraduate students at MNNIT?"
+      ],
+      "responses": [
+        "MNNIT offers undergraduate students a range of engineering branches, including Civil, Mechanical, Electrical, Electronics and Communication, Computer Science, Chemical, Biotechnology, and more."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the specialization options for postgraduate students in engineering?"
+      ],
+      "responses": [
+        "Postgraduate engineering students at MNNIT, Allahabad, can specialize in diverse fields like Structural Engineering, Power Systems, Computer Science, Communication Systems, Environmental Engineering, and Thermal Engineering, among other disciplines."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Does MNNIT offer programs in science and humanities?"
+      ],
+      "responses": [
+        "Yes, MNNIT offers programs in science and humanities, providing a diverse academic environment with a range of disciplines to cater to students' varied interests and career aspirations."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the academic disciplines covered in the science and humanities departments?"
+      ],
+      "responses": [
+        "MNNIT, Allahabad's science and humanities departments encompass varied disciplines like physics, chemistry, mathematics, biology, economics, literature, and philosophy, contributing to a comprehensive and well-rounded educational environment."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there any management programs or MBA courses offered at MNNIT?"
+      ],
+      "responses": [
+        "Yes, MNNIT offers MBA programs. Students can pursue management studies with various specializations, providing a comprehensive understanding of business and leadership in a dynamic environment."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What specializations are available for students pursuing management studies?"
+      ],
+      "responses": [
+        "MNNIT, Allahabad offers specializations in Management Studies, including Finance, Marketing, Human Resources, Operations, and Information Technology, enabling students to develop expertise in diverse areas of business administration."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Can you provide information on the Ph.D. programs offered at MNNIT?"
+      ],
+      "responses": [
+        "MNNIT offers Ph.D. programs across various disciplines, fostering advanced research. Prospective candidates can explore opportunities in engineering, sciences, humanities, and management, contributing to cutting-edge knowledge and innovation."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How does the institute support research activities for doctoral candidates?"
+      ],
+      "responses": [
+        "The institute supports doctoral candidates through research grants, state-of-the-art facilities, mentorship, and collaborations with industry and academia, fostering an environment conducive to cutting-edge research and innovation."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there any interdisciplinary programs that combine multiple academic disciplines?"
+      ],
+      "responses": [
+        "Yes, MNNIT, Allahabad offers interdisciplinary programs that blend various academic disciplines, fostering a holistic approach to education and encouraging cross-disciplinary collaboration for comprehensive skill development."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How does MNNIT encourage interdisciplinary research and study?"
+      ],
+      "responses": [
+        "MNNIT fosters interdisciplinary research by promoting collaboration among diverse departments, facilitating joint projects, and encouraging students and faculty to engage in cross-disciplinary initiatives, fostering a holistic academic environment."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Does MNNIT offer part-time or distance learning programs?"
+      ],
+      "responses": [
+        "As of my last knowledge update in January 2023, MNNIT, Allahabad, primarily focuses on full-time, on-campus programs. It's recommended to check the institute's official website for the latest information on part-time or distance learning offerings."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there any specific programs designed for working professionals?"
+      ],
+      "responses": [
+        "Yes, MNNIT, Allahabad, offers programs tailored for working professionals, accommodating their schedules. These programs aim to enhance skills and knowledge while allowing professionals to balance work and education effectively."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there any international exchange programs or collaborations for students?"
+      ],
+      "responses": [
+        "Yes, MNNIT, Allahabad, offers international exchange programs and collaborations for students, providing valuable opportunities for global exposure and enriching academic experiences beyond national borders."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How does MNNIT facilitate international exposure for its students?"
+      ],
+      "responses": [
+        "MNNIT facilitates international exposure for students through exchange programs, collaborations with foreign universities, global internships, and participation in international conferences, fostering a diverse and enriching learning environment."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there programs with a strong focus on research and innovation?"
+      ],
+      "responses": [
+        "Yes, MNNIT, Allahabad offers programs with a strong emphasis on research and innovation, fostering an environment where students can actively engage in cutting-edge research initiatives."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How does MNNIT integrate research into its academic programs?"
+      ],
+      "responses": [
+        "MNNIT integrates research into academic programs through hands-on projects, industry collaborations, and mandatory research components, fostering a culture of inquiry and innovation, empowering students with practical skills."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Does MNNIT offer any skill development or certification programs?"
+      ],
+      "responses": [
+        "Yes, MNNIT, Allahabad, offers skill development and certification programs to enhance students' competencies and prepare them for industry demands, fostering a holistic learning environment."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How does the institute prepare students for industry-relevant skills?"
+      ],
+      "responses": [
+        "MNNIT, Allahabad, equips students with industry-relevant skills through a robust curriculum, practical projects, workshops, internships, and collaboration with industries, fostering a holistic learning environment for professional readiness"
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What is the full form of MNNIT?"
+      ],
+      "responses": [
+        "Motilal Nehru National Institute of Technology (MNNIT or NIT Allahabad), formerly Motilal Nehru Regional Engineering College (MNREC)."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Abbrevation of MNNIT?"
+      ],
+      "responses": [
+        "Motilal Nehru National Institute of Technology (MNNIT or NIT Allahabad), formerly Motilal Nehru Regional Engineering College (MNREC)."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "MNIT"
+      ],
+      "responses": [
+        "It is MNNIT."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Where is MNNIT located?"
+      ],
+      "responses": [
+        "Barrister Mullah Colony, MNNIT Allahabad Campus, Teliarganj, Prayagraj, Uttar Pradesh 211004. Google Map link:- https://maps.app.goo.gl/L8Fq5EdwufrRHCE8A ."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "location of MNNIT?"
+      ],
+      "responses": [
+        "Barrister Mullah Colony, MNNIT Allahabad Campus, Teliarganj, Prayagraj, Uttar Pradesh 211004. Google Map link:- https://maps.app.goo.gl/L8Fq5EdwufrRHCE8A ."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "location of college."
+      ],
+      "responses": [
+        "Barrister Mullah Colony, MNNIT Allahabad Campus, Teliarganj, Prayagraj, Uttar Pradesh 211004. Google Map link:- https://maps.app.goo.gl/L8Fq5EdwufrRHCE8A ."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "When was MNNIT established ?"
+      ],
+      "responses": [
+        "It was established as one of the seventeen Regional Engineering Colleges of India in the year 1961 as a joint enterprise of Government of India and Government of Uttar Pradesh, and was an associated college of University of Allahabad, which is the third oldest university in India."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "It was established in"
+      ],
+      "responses": [
+        "It was established as one of the seventeen Regional Engineering Colleges of India in the year 1961 as a joint enterprise of Government of India and Government of Uttar Pradesh, and was an associated college of University of Allahabad, which is the third oldest university in India."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "when was MNNIT founded?"
+      ],
+      "responses": [
+        "It was established as one of the seventeen Regional Engineering Colleges of India in the year 1961 as a joint enterprise of Government of India and Government of Uttar Pradesh, and was an associated college of University of Allahabad, which is the third oldest university in India."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Can you describe the campus life at MNNIT?"
+      ],
+      "responses": [
+        "The campus life at MNNIT is characterized by a mix of academic, cultural, and technical activities. The institute organizes cultural fests such as CULRAV and technical fests such as AVISHKAR."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Campus life of MNNIT"
+      ],
+      "responses": [
+        "The campus life at MNNIT is characterized by a mix of academic, cultural, and technical activities. The institute organizes cultural fests such as CULRAV and technical fests such as AVISHKAR."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How is campus life of MNNIT?"
+      ],
+      "responses": [
+        "The campus life at MNNIT is characterized by a mix of academic, cultural, and technical activities. The institute organizes cultural fests such as CULRAV and technical fests such as AVISHKAR."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How is the faculty at MNNIT?"
+      ],
+      "responses": [
+        "Faculty of MNNIT are well qualified."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there any popular student clubs or organizations at MNNIT?"
+      ],
+      "responses": [
+        "There are many cutural , technical as well as social student organizations or club here at MNNIT Allahabad .Every club is best in its own area of work so I cannot judge them on basis of my personal views."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "popular committe of MNNIT?"
+      ],
+      "responses": [
+        "There are many cutural , technical as well as social student organizations or club here at MNNIT Allahabad .Every club is best in its own area of work so I cannot judge them on basis of my personal views."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How is the placement scenario at MNNIT?"
+      ],
+      "responses": [
+        "Our college MNNIT has excellent placement records. For the 2023 passed-out batch, the average package was 20.34 LPA. Approximately 92% of the total eligible students got placed here. The highest package was 1.35 crore per annum.(As per https://www.shiksha.com )."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Placement record of MNNIT?"
+      ],
+      "responses": [
+        "Our college MNNIT has excellent placement records. For the 2023 passed-out batch, the average package was 20.34 LPA. Approximately 92% of the total eligible students got placed here. The highest package was 1.35 crore per annum.(As per https://www.shiksha.com )."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How does MNNIT contribute to the local community?"
+      ],
+      "responses": [
+        "There is INSTITUTE'S INNOVATION CLUB To conduct various innovation and entrepreneurship-related activities prescribed by Central MIC in time bounded fashion. Click here to know more- https://mnnit.ac.in/iip/activities/index.html ."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the popular eateries or hangout spots on or near the MNNIT campus?"
+      ],
+      "responses": [
+        "The Institute campus has excellent eating outlets, that serves food and cafeteria items at reasonable prices. An outlet managed by- 1. Bikanervala Food Pvt. Ltd. 2. Amul India Pvt. Ltd."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Is there any canteen in MNNIT?"
+      ],
+      "responses": [
+        "The Institute campus has excellent eating outlets, that serves food and cafeteria items at reasonable prices. An outlet managed by- 1. Bikanervala Food Pvt. Ltd. 2. Amul India Pvt. Ltd."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Canteen in MNNIT?"
+      ],
+      "responses": [
+        "The Institute campus has excellent eating outlets, that serves food and cafeteria items at reasonable prices. An outlet managed by- 1. Bikanervala Food Pvt. Ltd. 2. Amul India Pvt. Ltd."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "How is the hostel accommodation at MNNIT?"
+      ],
+      "responses": [
+        "There are eight boys hostels and three girls hostels to accommodate the students of the Institute in the comfortable and conducive manner."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Hostel in MNNIT?"
+      ],
+      "responses": [
+        "There are eight boys hostels and three girls hostels to accommodate the students of the Institute in the comfortable and conducive manner."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Numbers of girls hostel in MNNIT?"
+      ],
+      "responses": [
+        "There are eight boys hostels and three girls hostels to accommodate the students of the Institute in the comfortable and conducive manner."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Number of boys hostel in MNNIT?"
+      ],
+      "responses": [
+        "There are eight boys hostels and three girls hostels to accommodate the students of the Institute in the comfortable and conducive manner."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "attraction near MNNIT?"
+      ],
+      "responses": [
+        "There are so many places to visit in Allahabad but it totally depends upon one's choice. Some of them are- 1) Naini Bridge (Approx. 10 Kms)-the experience of standing in mid of the bridge is just awesome. 2) Anand Bhawan/Swaraj Bhwan/Planetarium (Approx. 5Kms)-for history lovers."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "Cafe 96"
+      ],
+      "responses": [
+        "Caf\u00c3\u00a9 \u00e2\u20ac\u212296, cafeteria sponsored by Batch 1996 of MNNIT Allahabad was inaugurated by the Director MNNIT Allahabad, Prof. Rajeev Tripathi on 02nd October 2021."
+      ],
+      "tag": [
+        "General"
+      ]
+    },
+    {
+      "patterns": [
+        "how is cafe96"
+      ],
+      "responses": [
+        "You are to find perfectly cooked masala dosa. Delicious coffee is among the most popular drinks at this cafe. A number of visitors consider the staff cute. Service at Cafe '96 is something one can call good. The atmosphere is lovely, as people see it. Google users granted the score of 4.1 to this place."
+      ],
+      "tag": [
+        "General"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "intents": [
+    {
+      "patterns": [
+        "Prof. M.M.Gore"
+      ],
+      "responses": [
+        "Designation- Professor, Qualification- M.E., Ph.D., Phone No.:+91-532-2271353 (O),+91-532-2271619 (R) View Profile- http://www.mnnit.ac.in/profile/gore"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Details about Prof. M.M.Gore"
+      ],
+      "responses": [
+        "Designation- Professor, Qualification- M.E., Ph.D., Phone No.:+91-532-2271353 (O),+91-532-2271619 (R) View Profile- http://www.mnnit.ac.in/profile/gore"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Prof. R.S.Yadav"
+      ],
+      "responses": [
+        "Designation- Professor Qualification- M.S. (Software Systems), Ph.D. System. Phone No.:+91-532-2271355 View Profile- http://mnnit.ac.in/profile/rsy"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Details about Prof. R.S.Yadav"
+      ],
+      "responses": [
+        "Designation- Professor Qualification- M.S. (Software Systems), Ph.D. System. Phone No.:+91-532-2271355 View Profile- http://mnnit.ac.in/profile/rsy"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Prof. Neeraj Tyagi"
+      ],
+      "responses": [
+        "Designation- Professor Qualification- M.E (CSE), Phone No.:+91-532-2271356 (O), 2271657 (R) View Profile- http://www.mnnit.ac.in/profile/neeraj"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Details about Prof. Neeraj Tyagi"
+      ],
+      "responses": [
+        "Designation- Professor Qualification- M.E (CSE), Phone No.:+91-532-2271356 (O), 2271657 (R) View Profile- http://www.mnnit.ac.in/profile/neeraj"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Prof. D.S. Kushwaha"
+      ],
+      "responses": [
+        "Designation- Professor Qualification- M.Tech., Ph.D. Phone No.:+91-532-2271358 (O), +91-9415253104 (R), View Profile- http://mnnit.ac.in/profile/dsk"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Prof. Anil Kumar Singh"
+      ],
+      "responses": [
+        "Designation- Professor Qualification- Ph.D. Phone No.:+91 532 227 1359 (O), +91 9452613200 (M) View Profile- http://www.mnnit.ac.in/profile/ak"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Prof. D.K.Yadav"
+      ],
+      "responses": [
+        "Designation- Professor & Head Qualification- B.E., M.E., Ph.D. (IIT Bombay) Phone No.:+91-0532- 2271361(O), +91-0532- 2271707(R),9839332380(M) View Profile- http://mnnit.ac.in/profile/dky"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Prof. Mayank Pandey"
+      ],
+      "responses": [
+        "Designation- Professor Qualification- M.Tech., Ph.D. Phone No.:+91-05322271362 (R)+91-05322271955(O) View Profile- http://mnnit.ac.in/profile/mayankpandey"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Mr. Rajesh Tripathi"
+      ],
+      "responses": [
+        "Designation- Associate Professor Qualification- B.Tech., M.Tech. Phone No.:+91-532-2271357   (O), +91-532-2271959(R),9452157497(M) View Profile- http://mnnit.ac.in/profile/rajeshtcsed"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Manoj Wariya"
+      ],
+      "responses": [
+        "Designation- Associate Professor Qualification- M.E.(CS),Ph.D. Phone No.:+91-532-227-1360 (R), +91-532-2271947(O),9453317401(M) View Profile- http://mnnit.ac.in/profile/wairya"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Anoj Kumar"
+      ],
+      "responses": [
+        "Designation- Associate Professor Qualification- B.E., Phone No.:+91-532-2271363 (O), 2271725(R) View Profile- http://mnnit.ac.in/profile/anojk"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Ranvijay"
+      ],
+      "responses": [
+        "Designation- Associate Professor Qualification- M.Tech., Ph.D. Phone No.:0532-2271366(O),05322271768(R) View Profile- http://www.mnnit.ac.in/profile/ranvijay"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Shashank Srivastava"
+      ],
+      "responses": [
+        "Designation- Associate ProfessorQualification- M.S., Ph.D. Phone No.:0532-2271373(O),+91-9984905199(M) View Profile- http://mnnit.ac.in/profile/shashank12"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Dushyant Kumar Singh"
+      ],
+      "responses": [
+        "Designation- Associate Professor Qualification- M.Tech., Ph.D. Phone No.:0532-2271371(O), 9359133388(Mob) View Profile- http://mnnit.ac.in/profile/dushyant"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Dinesh Singh"
+      ],
+      "responses": [
+        "Designation- Associate Professor Qualification- M.Tech., Ph.D. Phone No.:0532-2271372 (O),+91-7007207964 View Profile- http://mnnit.ac.in/profile/dinesh_singh"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Sarsij Tripathi"
+      ],
+      "responses": [
+        "Designation- Associate Professor Qualification- M.Tech., Ph.D Phone No.:09589859117 View Profile- http://mnnit.ac.in/profile/sarsij"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Rupesh Kumar Dewang"
+      ],
+      "responses": [
+        "Designation- Assistant ProfessorQualification- M.Tech., Ph.D. Phone No.:0532-2271367(O) View Profile- http://mnnit.ac.in/profile/rupeshdewang"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Pragya Dwivedi"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- M.Tech., Ph.D. Phone No.:0532-2271369----(O),8601850563(M) View Profile-http://mnnit.ac.in/profile/pragyadwi86"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Lieutenant (Dr.) Divya Kumar"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- M.Tech., Ph.D. Phone No.:0532-2271370(O),941195353(M) View Profile- http://www.mnnit.ac.in/profile/divyak"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Shashwati Banerjea"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- M.Tech., Ph.D. Phone No.:0532-2271374(O) View Profile- http://mnnit.ac.in/profile/shashwati"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Rajitha B"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- Ph.D. Phone No.:0532-2271375(O),+91805235544 View Profile- http://mnnit.ac.in/profile/rajitha"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Ashish Kumar Maurya"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- M.Tech. (IIT Roorkee), Ph.D. (IIT-BHU) Phone No.:7905953001(M) View Profile- http://mnnit.ac.in/profile/ashishmaurya"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Vibhav Prakash Singh"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- B.Tech., M.Tech., Ph.D. Phone No.:+91-9452558701 (Mob.) View Profile- http://mnnit.ac.in/profile/vibhav"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. J Sathish Kumar"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- M.Tech., Ph.D. Phone No.:+91-6355998672 View Profile- http://www.mnnit.ac.in/profile/sathish613"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Shailendra Shukla"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- Ph.D. Phone No.:+91-8894415275(M) View Profile- http://mnnit.ac.in/profile/ss"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Indu Dohare"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- B.Tech., M.Tech., Ph.D. Phone No.:+91-9971853562 View Profile- http://mnnit.ac.in/profile/indudohare"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Janani T"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- B.Tech., M.E., Ph.D. phone No.:+91-9629299856 View Profile- http://mnnit.ac.in/profile/jananit"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Abhimanyu Sahu"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- B. E., M. Tech., Ph.D. Phone No.:+91-9861987768 View Profile- http://mnnit.ac.in/profile/abhimanyus"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Kailash W. Kalare"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- B.E.(IT)., M. Tech.(VNIT Nagpur), Ph.D. (IIITDM Jabalpur) Phone No.:+91-8605050085 View Profile- http://mnnit.ac.in/profile/kailashwk"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Amit Biswas"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- B.Tech, M.Tech, Ph.D. Phone No.:+91 9088282747 View Profile- http://mnnit.ac.in/profile/amitb"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Abhinav Kumar"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- B.Tech., M.Tech., Ph.D. Phone No.:+91-9905456591 View Profile- http://mnnit.ac.in/profile/abhik"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. DEEPAK GUPTA"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- MCA, M.Tech., Ph.D. Phone No.:+91-9999778726 View Profile- http://mnnit.ac.in/profile/deepakg"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. VISHAL SRIVASTAVA"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- B.Tech., M.Tech., Ph.D. Phone No.:+91-8707567694(O) +91-8707567694(M) View Profile- http://mnnit.ac.in/profile/vishalsri"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Saugata Roy"
+      ],
+      "responses": [
+        "Designation- Assistant Professor Qualification- B.Tech., M.Tech., Ph.D. Phone No.:7798810114 View Profile- http://mnnit.ac.in/profile/sgtroy"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    },
+    {
+      "patterns": [
+        "Dr. Anuja Dixit"
+      ],
+      "responses": [
+        "Designation- Assistant ProfessorQualification-  B.Tech, M.Tech, Ph.D. View Profile- http://mnnit.ac.in/profile/anujadixit"
+      ],
+      "tag": [
+        "Faculty Information"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,917 @@
+{
+  "intents": [
+    {
+      "patterns": [
+        "Where is MNNIT located?"
+      ],
+      "responses": [
+        "Barrister Mullah Colony, MNNIT Allahabad Campus, Teliarganj, Prayagraj, Uttar Pradesh 211004"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "What is MNNIT located?"
+      ],
+      "responses": [
+        "Barrister Mullah Colony, MNNIT Allahabad Campus, Teliarganj, Prayagraj, Uttar Pradesh 211004"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Where is MNNIT situated?"
+      ],
+      "responses": [
+        "Barrister Mullah Colony, MNNIT Allahabad Campus, Teliarganj, Prayagraj, Uttar Pradesh 211004"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "MNNIT location"
+      ],
+      "responses": [
+        "Barrister Mullah Colony, MNNIT Allahabad Campus, Teliarganj, Prayagraj, Uttar Pradesh 211004"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "MNNIT address"
+      ],
+      "responses": [
+        "Barrister Mullah Colony, MNNIT Allahabad Campus, Teliarganj, Prayagraj, Uttar Pradesh 211004"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "address of MNNIT?"
+      ],
+      "responses": [
+        "Barrister Mullah Colony, MNNIT Allahabad Campus, Teliarganj, Prayagraj, Uttar Pradesh 211004"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "What is the campus life in MNNIT?"
+      ],
+      "responses": [
+        "Infrastructure is quite good. It has well equipped labs, good lecture halls."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "How is campus life in MNNIT?"
+      ],
+      "responses": [
+        "Infrastructure is quite good. It has well equipped labs, good lecture halls."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the major courses offered at MNNIT?"
+      ],
+      "responses": [
+        "Bio-Technology, Chemical Engineering, Civil Engineering, Computer Science & Engineering, Electrical Engineering, Electronics & Communication Engineering, Information Technology, Mechanical Engineering, Production & Industrial Engineering"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "courses in MNNIT"
+      ],
+      "responses": [
+        "Bio-Technology, Chemical Engineering, Civil Engineering, Computer Science & Engineering, Electrical Engineering, Electronics & Communication Engineering, Information Technology, Mechanical Engineering, Production & Industrial Engineering"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "courses offered in MNNIT for UG"
+      ],
+      "responses": [
+        "Bio-Technology, Chemical Engineering, Civil Engineering, Computer Science & Engineering, Electrical Engineering, Electronics & Communication Engineering, Information Technology, Mechanical Engineering, Production & Industrial Engineering"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "MNNIT"
+      ],
+      "responses": [
+        "Motilal Nehru National Institute of Technology Allahabad (popularly known as MNNIT Allahabad or NIT Allahabad, formerly known as Motilal Nehru Regional Engineering College (MNREC)) is a deemed university located in Prayagraj, Uttar Pradesh"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "What is the admission process for undergraduate programs?"
+      ],
+      "responses": [
+        "You can get admission through JOSAA counselling."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "How to get admission in MNNIT?"
+      ],
+      "responses": [
+        "You can get admission through JOSAA counselling."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "admission in MNNIT?"
+      ],
+      "responses": [
+        "You can get admission through JOSAA counselling."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "How about the admission process for postgraduate programs?"
+      ],
+      "responses": [
+        "It usually involves GATE (Graduate Aptitude Test in Engineering) or other relevant entrance exams."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the key facilities available on the MNNIT campus?"
+      ],
+      "responses": [
+        "The central library has a collection of 1,04,328 books. There are seven boys and two girls hostels present inside the college. Hostel provides facility of Wi-Fi, stationary shop, and a badminton court. Each room has a table and a chair with bed."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "facilities available on the MNNIT campus?"
+      ],
+      "responses": [
+        "The central library has a collection of 1,04,328 books. There are seven boys and two girls hostels present inside the college. Hostel provides facility of Wi-Fi, stationary shop, and a badminton court. Each room has a table and a chair with bed."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "boys hostel in MNNIT?"
+      ],
+      "responses": [
+        "Total 7 boys hostel."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "How many boys hostel in MNNIT?"
+      ],
+      "responses": [
+        "Total 7 boys hostel."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "girls hostel in MNNIT?"
+      ],
+      "responses": [
+        "There are total 4 girls hostel."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "How many girls hostel in MNNIT?"
+      ],
+      "responses": [
+        "Total 4 girls hostel."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there well-equipped labs, libraries, and sports facilities?"
+      ],
+      "responses": [
+        "Yes."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "How is college life in MNNIT?"
+      ],
+      "responses": [
+        "MNNIT has a vibrant student life with numerous clubs, societies, and events. Students actively participate in cultural, technical, and sports activities."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "student life in MNNIT?"
+      ],
+      "responses": [
+        "MNNIT has a vibrant student life with numerous clubs, societies, and events. Students actively participate in cultural, technical, and sports activities."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "How is the faculty at MNNIT?"
+      ],
+      "responses": [
+        "MNNIT has a dedicated and qualified faculty. Many professors are involved in research activities and have published papers in reputed journals. For more information refer this link http://www.mnnit.ac.in/index.php/department/engineering/cm/cmfp"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Faculty in MNNIT?"
+      ],
+      "responses": [
+        "MNNIT has a dedicated and qualified faculty. Many professors are involved in research activities and have published papers in reputed journals. For more information refer this link http://www.mnnit.ac.in/index.php/department/engineering/cm/cmfp"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there notable professors in specific departments?"
+      ],
+      "responses": [
+        "Yes."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "How is the placement scenario at MNNIT?"
+      ],
+      "responses": [
+        "For placement  refer this link https://tpo.mnnit.ac.in/tnp/placement/placementarchive.php"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "How is the placement statistics of MNNIT?"
+      ],
+      "responses": [
+        "For placement statistics refer this link https://tpo.mnnit.ac.in/tnp/placement/placementarchive.php"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "placement statistics of MNNIT?"
+      ],
+      "responses": [
+        "For placement statistics refer this link https://tpo.mnnit.ac.in/tnp/placement/placementarchive.php"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Which companies visit the campus for recruitment?"
+      ],
+      "responses": [
+        "Some top recruiting companies for MNNIT Allahabad include- Google, Apple, Microsoft, Oracle, Sprinklr, Deloitte, Bajaj, ONGC, Gail, Eil"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "What are some of the notable research areas or projects at MNNIT?"
+      ],
+      "responses": [
+        "Please refer to this link - http://www.mnnit.ac.in/index.php/department/mgmt-studies/mgmt-studiesrs"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Is there a culture of innovation and entrepreneurship?"
+      ],
+      "responses": [
+        "Various cells and clubs at MNNIT Allahabad act as pre - incubation units working under a functionalliC which manages all innovation and entrepreneurship activities."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there separate hostels for boys and girls?"
+      ],
+      "responses": [
+        "Yes."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "What is the student life like at MNNIT?"
+      ],
+      "responses": [
+        "MNNIT has a vibrant student life with numerous clubs, societies, and events. Students actively participate in cultural, technical, and sports activities."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there clubs, societies, or events that students can participate in?"
+      ],
+      "responses": [
+        "Yes. For more info refer to the given link https://sac.mnnit.ac.in/clubs"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "clubs in mnnit?"
+      ],
+      "responses": [
+        "Yes. For more info refer to the given link https://sac.mnnit.ac.in/clubs"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Does MNNIT have a strong alumni network?"
+      ],
+      "responses": [
+        "Yes."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there any notable alumni from the institute?"
+      ],
+      "responses": [
+        "Yes."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "What is the academic calendar like at MNNIT?"
+      ],
+      "responses": [
+        "The academic calendar typically follows a semester system, with specific dates for the start and end of each semester, examinations, and other academic events."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "academic calendar like at MNNIT?"
+      ],
+      "responses": [
+        "The academic calendar typically follows a semester system, with specific dates for the start and end of each semester, examinations, and other academic events."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "How long is one semester in MNNIT?"
+      ],
+      "responses": [
+        "Every semester lasts for about 4 to 5 months."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "duration of one semester in MNNIT?"
+      ],
+      "responses": [
+        "Every semester lasts for about 4 to 5 months."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Does MNNIT have collaborations with international universities?"
+      ],
+      "responses": [
+        "Yes."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there opportunities for students to study abroad?"
+      ],
+      "responses": [
+        "MNNIT Allahabad, like many other universities, offers student exchange programs that allow its students to study abroad for a semester or academic year at a partner university."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "opportunities for students to study abroad?"
+      ],
+      "responses": [
+        "MNNIT Allahabad, like many other universities, offers student exchange programs that allow its students to study abroad for a semester or academic year at a partner university."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "scholarships available for students at MNNIT?"
+      ],
+      "responses": [
+        "MNNIT provides various scholarships and financial aid options to deserving students. These may include merit-based scholarships, government schemes, and institute-specific financial assistance."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there scholarships available for students at MNNIT?"
+      ],
+      "responses": [
+        "Yes."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "How does the institute support students financially?"
+      ],
+      "responses": [
+        "MNNIT provides various scholarships and financial aid options to deserving students. These may include merit-based scholarships, government schemes, and institute-specific financial assistance."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Does MNNIT organize cultural and technical festivals?"
+      ],
+      "responses": [
+        "MNNIT hosts various cultural and technical festivals throughout the year. The cultural festival, known as \"Culrav,\" and the technical festival, \"Avishkar,\" are major highlights on the campus."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "What are some of the major events on campus?"
+      ],
+      "responses": [
+        "MNNIT hosts various cultural and technical festivals throughout the year. The cultural festival, known as \"Culrav,\" and the technical festival, \"Avishkar,\" are major highlights on the campus."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "What are the major academic programs offered at MNNIT?"
+      ],
+      "responses": [
+        "MNNIT offers undergraduate and postgraduate programs in various disciplines, including Engineering, Technology, and Management."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "What is the typical class size for lectures and laboratory sessions?"
+      ],
+      "responses": [
+        "Class sizes vary, but MNNIT aims to maintain an effective student-teacher ratio to facilitate personalized learning and interactions."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "How is the assessment and examination system at MNNIT?"
+      ],
+      "responses": [
+        "MNNIT typically follows a semester system with regular assessments, mid-term exams, and end-of-semester examinations. Evaluation methods may include assignments, projects, and practical exams."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "assessment in MNNIT?"
+      ],
+      "responses": [
+        "MNNIT typically follows a semester system with regular assessments, mid-term exams, and end-of-semester examinations. Evaluation methods may include assignments, projects, and practical exams."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "examination in MNNIT?"
+      ],
+      "responses": [
+        "MNNIT typically follows a semester system with mid-term exams, and end-of-semester examinations. Evaluation methods may include assignments, projects, and practical exams."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Best branch of MNNIT?"
+      ],
+      "responses": [
+        "CSE"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "which is best branch of MNNIT in UG?"
+      ],
+      "responses": [
+        "CSE"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Best branch of MNNIT in UG?"
+      ],
+      "responses": [
+        "CSE"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "which is best branch of MNNIT in PG?"
+      ],
+      "responses": [
+        "CSE"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Best core branch in MNNIT?"
+      ],
+      "responses": [
+        "Mechanical engineering"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "which is best core branch of MNNIT?"
+      ],
+      "responses": [
+        "Mechanical engineering"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Is branch sliding option there at MNNIT Allahabad?"
+      ],
+      "responses": [
+        "Yes, there is a provision of branch sliding in MNNIT after 1st year, where a few vacant seats in (almost) all branches are filled."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Is branch sliding available at MNNIT Allahabad?"
+      ],
+      "responses": [
+        "Yes, there is a provision of branch sliding in MNNIT after 1st year, where a few vacant seats in (almost) all branches are filled."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "How is MNNIT?"
+      ],
+      "responses": [
+        "The Motilal Nehru National Institute of Technology (MNNIT) in Allahabad is a government institute that offers a vibrant environment and top-notch education. The institute is ranked 49 among the best engineering institutions in India."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "What is MNNIT?"
+      ],
+      "responses": [
+        "The Motilal Nehru National Institute of Technology (MNNIT) in Allahabad is a government institute that offers a vibrant environment and top-notch education. The institute is ranked 49 among the best engineering institutions in India."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Infrastructure of MNNIT"
+      ],
+      "responses": [
+        "The college has a 222-acre campus and adequate facilities in the classrooms, labs, and library."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Hostel facility in MNNIT?"
+      ],
+      "responses": [
+        "Total 7 boys hostel and 4 girls hostel available"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Hostel facility in MNNIT for boys"
+      ],
+      "responses": [
+        "Total 7 boys hostel available for students"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Hostel facility in MNNIT for girls"
+      ],
+      "responses": [
+        "Total 4 girls hostel available for students"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Girls hostel in MNNIT"
+      ],
+      "responses": [
+        "Total 4 girls hostel available for students"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "boys hostel in MNNIT"
+      ],
+      "responses": [
+        "Total 7 boys hostel available for students"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "when MNNIT established"
+      ],
+      "responses": [
+        "In 1961"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "MNNIT is private or government"
+      ],
+      "responses": [
+        "Government"
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Is MNNIT Allahabad Tier 1?"
+      ],
+      "responses": [
+        "Yes."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Are there preparation leaves for end-semester exams at MNNIT?"
+      ],
+      "responses": [
+        "It is advisable to consult the academic calendar or check with the institute for the specific details regarding preparation leaves."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "preparation leaves for end-semester exams at MNNIT?"
+      ],
+      "responses": [
+        "It is advisable to consult the academic calendar or check with the institute for the specific details regarding preparation leaves."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "What is the role of the Training and Placement Office (TPO) at MNNIT?"
+      ],
+      "responses": [
+        "The Training and Placement Office (TPO) at MNNIT is responsible for conducting all recruitment-related activities of the institute."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "role of TPO at MNNIT?"
+      ],
+      "responses": [
+        "The Training and Placement Office (TPO) at MNNIT is responsible for conducting all recruitment-related activities of the institute."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Is masters degree available in MNNIT"
+      ],
+      "responses": [
+        "Yes."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Is masters course available in MNNIT"
+      ],
+      "responses": [
+        "Yes."
+      ],
+      "tag": [
+        "academics"
+      ]
+    },
+    {
+      "patterns": [
+        "Is masters available in MNNIT"
+      ],
+      "responses": [
+        "Yes."
+      ],
+      "tag": [
+        "academics"
+      ]
+    }
+  ]
+}
